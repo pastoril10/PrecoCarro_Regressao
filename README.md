@@ -19,6 +19,7 @@ Outra análise foi encontrar as features que mais contribue para o preço dos ca
 
 ![image](https://user-images.githubusercontent.com/83425571/179366592-6f9b34e9-6852-4e6b-8328-0fb39768a568.png)
 
-O Nosso RMSE foi de 3.1%
+O Nosso RMSE foi de 3.1 Lakh
+
 
 
